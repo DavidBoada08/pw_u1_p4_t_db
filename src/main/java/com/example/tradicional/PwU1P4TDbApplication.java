@@ -16,6 +16,8 @@ public class PwU1P4TDbApplication implements CommandLineRunner {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Mi Primera tarea");
+		System.out.println("commit");
+		System.out.println("commit2");
 		
 	}
 
